@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yambaaah!</string>
+    <string name="app_label">Yambaah!</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="button_tweet">No presiones o tweeteas</string>
+    <string name="messageDialog">Mandando tu mensaje…</string>
+    <string name="hint_status">Que deseas publicar?</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Yamba4Gr9</string>
+    <string name="app_label">Yamba4Gr9Service</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="button_tweet">No presiones o tweeteas</string>
+    <string name="messageDialog">Mandando tu mensaje…</string>
+    <string name="hint_status">Que deseas publicar?</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="apiRoot">apiRoot</string>
+    <string name="username_summary">Ingresa nombre de usuario</string>
+    <string name="password_summary">Ingresa password</string>
+    <string name="apiRoot_summary">Ingresa apiroot</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="tweet">Tweet</string>
+    <string name="refresh">Refresh</string>
+    <string name="purge">Purge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="numero">140</string>
+
+
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
